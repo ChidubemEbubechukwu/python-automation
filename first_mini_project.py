@@ -28,3 +28,8 @@ while num != 0:
     count += num
 print("Sum of all numbers entered", count)
 
+print("Task 3")
+num = int(input("Enter any number: "))
+for i in range(1,21):
+    print(num, "x", i, "=", num * i)
+
