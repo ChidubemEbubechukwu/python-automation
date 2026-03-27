@@ -33,6 +33,6 @@ print(i)
 
 
 for i in range(5):
-    if i == 2 or 3:
+    if i == 2:
         continue
     print(i)
