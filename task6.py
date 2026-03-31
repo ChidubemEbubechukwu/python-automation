@@ -17,7 +17,7 @@ for fruit in fruits:
 
 
 names = []
-for i in range(5):
+for i in range(3):
     name = input("Enter a name: ")
     names.append(name)
 print ("Names entered: ")
@@ -26,7 +26,7 @@ for name in names:
     print(name)
 
 scores = []
-for i in range(5):
+for i in range(3):
     score = int(input("Enter score: "))
     scores.append(score)
 
@@ -36,25 +36,35 @@ print("Highest score:", max(scores))
 print("Lowest score:", min(scores))
 
 nums = []
-for i in range(5):
+for i in range(3):
     num = int(input("Enter number: "))
     nums.append(num)
 print("Numbers entered: ",nums)
 
 
 names =  []
-for i in range(5):
+for i in range(3):
     name = input("Enter name: ")
     names.append(name)
 print("Names entered: ",names[::-1])
 
-count = 0
+nums = []
 num = 1
+
 while num != 0:
-    num =  int(input("Enter Number: "))
-    nums.append(num)
-    break
-print ("All numbers: ", num)
-print("Total: ",sum(num))
-print("Highest number: ", max(num))
-print("Lowest number: ", min(num))
+    num =  int(input("Enter Number(0 to stop): "))
+    
+    if num != 0:
+        nums.append(num)
+
+print ("All numbers: ", nums)
+
+if len(nums) > 0:
+       print("Total: ",sum(nums))
+       print("Highest number: ", max(nums))
+       print("Lowest number: ",  min(nums))
+
+
+
+else:
+    print("No numbers entered!") 
