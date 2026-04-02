@@ -63,11 +63,5 @@ if len(nums) > 0:
        print("Total: ",sum(nums))
        print("Highest number: ", max(nums))
        print("Lowest number: ",  min(nums))
-
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 8faefbc (Week 1 Day 6: Learned lists and loops with input handling, number storage, and analysis)
 else:
     print("No numbers entered!") 
