@@ -11,11 +11,14 @@ This repository contains my Python learning journey, including weekly tasks and 
 
 ##  Week 1 Tasks
 
-- Task 3: Input and Output basics  
-- Task 4: If/Else conditions  
-- Task 5: Loops (for & while)  
-- Task 6: Lists and number analysis  
-- Task 7: Advanced list operations  
+- Task 1: Hello World & basic output (`hello.py`)
+- Task 2: Basic practice exercises (`Practice1.py`)
+- Task 3: Input and Output basics (`task.py`)
+- Task 4: If/Else conditions (`task3.py`)
+- Task 5: Loops (for & while) (`task4.py`)
+- Task 6: Lists and number analysis (`task5.py`)
+- Task 7: Advanced list operations (`task6.py`)
+- Task 8: Final Week 1 review task (`task7.py`)
 
 ---
 
