@@ -21,6 +21,36 @@ This repository contains my Python learning journey, including weekly tasks and 
 - Task 8: Final Week 1 review task (`task7.py`)
 
 ---
+## Week 2 Tasks  
+
+### Day 1
+#### Topics Covered
+- Introduction to Week 2
+- User input and output
+- Basic program structure
+
+#### Project Description
+Created a simple Python program that:
+- Welcomes the user
+- Accepts user input (name)
+- Displays a personalized message
+
+---
+
+### Day 2
+#### Topics Covered
+- Functions in Python
+- Menu-driven programs
+- User input handling
+- Conditional statements (if/elif/else)
+
+#### Project Description
+Built a menu-based Python program that allows users to:
+- Greet user
+- Perform multiplication
+- Perform subtraction
+- Perform division (with error handling)
+- Display user information
 
 ##  Mini Projects
 
