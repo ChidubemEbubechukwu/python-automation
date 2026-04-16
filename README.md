@@ -52,6 +52,20 @@ Built a menu-based Python program that allows users to:
 - Perform division (with error handling)
 - Display user information
 
+### Day 3
+#### Topics Covered
+- File handling in Python (open, read, write, append)
+- Working with text files
+- Functions for modular programming
+- Data storage using .txt files
+
+#### Project Description
+Built a simple user management system that allows users to:
+- Save user names with the current date
+- Store user information in a text file (`users.txt`)
+- View all saved users from the file
+- Practice file operations using append and read modes
+
 ##  Mini Projects
 
 - Mini Project 1: Login system  
