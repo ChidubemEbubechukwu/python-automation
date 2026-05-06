@@ -66,6 +66,23 @@ Built a simple user management system that allows users to:
 - View all saved users from the file
 - Practice file operations using append and read modes
 
+### Day 4
+#### Topics Covered
+- Advanced file handling in Python
+- Data processing (searching, counting, filtering)
+- Working with structured text data
+- Automation using file-based systems
+
+#### Project Description
+Developed a file-based automation system that allows users to:
+- Save user data with timestamps
+- View and organize stored records
+- Search for specific users
+- Count total users in the system
+- Remove duplicate entries from stored data
+
+This project demonstrates practical application of file handling concepts and introduces basic data management techniques using Python.
+
 ##  Mini Projects
 
 - Mini Project 1: Login system  
